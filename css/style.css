@@ -9,7 +9,10 @@ body {
   margin: 0;
   font-size: 14px;
 }
-
+*{
+  font-family: "Quicksand", sans-serif;
+  font-weight: 400;
+ }
 /* line 9, E:/169 Dingo Restaurant/169 Dingo Restaurant/169_Dingo_Restautent_html/sass/_common.scss */
 .message_submit_form:focus {
   outline: none;
